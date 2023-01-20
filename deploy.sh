@@ -28,7 +28,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-# git push -f https://github.com/Alex-Jongman/rxjs-tryout.git deploy:gh-pages
-git push -f https://github.com/<USERNAME>/<REPO>.git deploy:gh-pages
+git push -f https://github.com/HU-SD-SV2FE-studenten-2022/rxjs-routing-demo.git deploy:gh-pages
 
 cd -
